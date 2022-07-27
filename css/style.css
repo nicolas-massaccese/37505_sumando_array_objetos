@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: orange;
+}
+div{
+    height: 200px;
+    background-color: green;
+}
